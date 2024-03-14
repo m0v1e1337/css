@@ -1,0 +1,42 @@
+.start{
+  display: flex;
+  height: 40px;
+  background-color:rgb(51, 204, 153) ;
+}
+
+.headers{
+  margin-left: 1350px;
+}
+.Header{
+  display: flex;
+  background-color: rgb(51, 204, 153);
+
+}
+.sels{
+
+  padding: 5px;
+  text-decoration: none;
+  color: black;
+  margin: 5px;
+}
+
+.body{
+  margin: 5px;
+  margin-left: 400px;
+}
+.imeg{
+
+  margin: 5px;
+
+}
+.ifect{
+  width: 1000px ;
+
+}
+
+
+.podval{
+  background-color:rgb(51, 204, 153) ;
+  display: grid;
+  grid-template-columns: repeat(3,1fr) ;
+}
